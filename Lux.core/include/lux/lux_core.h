@@ -16,6 +16,7 @@
 #include <lux/base_core.h>
 
 #include <lux/types.h>
+#include <lux/numdesc.h>
 #include <lux/math.h>
 #include <lux/functions.h>
 #include <lux/memory.h>
